@@ -1,0 +1,57 @@
+**** TEAMS: 
+
+TEAM ORDER_OF_THE_PHOENIX
+	1 Albus Dumbledore   Organization: HOGWARTS   Rank: FACULTY   Curse: expecto patronum
+	2 Kingsley Shacklebolt   Organization: MINISTRY_OF_MAGIC   Rank: AUROR   Curse: crucio
+	3 Harry Potter   Organization: HOGWARTS   Rank: STUDENT   Curse: expelliarmus
+	4 Nymphadora Tonks   Organization: MINISTRY_OF_MAGIC   Rank: AUROR   Curse: sectumsempra
+	5 Remus Lupin   Organization: HOGWARTS   Rank: FACULTY   Curse: petrificus totalus
+
+TEAM YOU_KNOW_WHO
+	1 Severus Snape   Organization: HOGWARTS   Rank: FACULTY   Curse: avada kedavra
+	2 Bellatrix Lestrange   Organization: DEATH_EATERS   Rank: MISTRESS   Curse: crucio
+	3 Lord Voldemort   Organization: DEATH_EATERS   Rank: LORD   Curse: imperio
+	4 Lucius Malfoy   Organization: DEATH_EATERS   Rank: FELLOW   Curse: avada kedavra
+	5 Draco Malfoy   Organization: HOGWARTS   Rank: STUDENT   Curse: stupefy
+
+
+****HEAD-TO-HEAD BATTLE****
+***Battle 1
+
+Team 1:   Albus Dumbledore   expecto patronum   35PU     *** LOSER
+Team 2:   Severus Snape   avada kedavra   90PU     *** WINNER
+
+***Battle 2
+
+Team 1:   Kingsley Shacklebolt   crucio   70PU     *** WINNER
+Team 2:   Bellatrix Lestrange   crucio   70PU     *** LOSER
+
+***Battle 3
+
+Team 1:   Harry Potter   expelliarmus   30PU     *** LOSER
+Team 2:   Lord Voldemort   imperio   90PU     *** WINNER
+
+***Battle 4
+
+Team 1:   Nymphadora Tonks   sectumsempra   47PU     *** WINNER
+Team 2:   Lucius Malfoy   avada kedavra   40PU     *** LOSER
+
+***Battle 5
+
+Team 1:   Remus Lupin   petrificus totalus   40PU     *** WINNER
+Team 2:   Draco Malfoy   stupefy   30PU     *** LOSER
+
+
+
+****WINNERS****
+TEAM ORDER_OF_THE_PHOENIX
+	1  Kingsley Shacklebolt
+	2  Nymphadora Tonks
+	3  Remus Lupin
+
+TEAM YOU_KNOW_WHO
+	1  Severus Snape
+	2  Lord Voldemort
+
+****WINNER****
+TEAM ORDER_OF_THE_PHOENIX

@@ -1,0 +1,57 @@
+**** TEAMS: 
+
+TEAM ORDER_OF_THE_PHOENIX
+	1 Albus Dumbledore   Organization: HOGWARTS   Rank: FACULTY   Curse: avada kedavra
+	2 Minerva McGonagall   Organization: HOGWARTS   Rank: FACULTY   Curse: petrificus totalus
+	3 Hermione Granger   Organization: HOGWARTS   Rank: STUDENT   Curse: obliviate
+	4 Ron Weasley   Organization: HOGWARTS   Rank: STUDENT   Curse: expelliarmus
+	5 Harry Potter   Organization: HOGWARTS   Rank: STUDENT   Curse: expecto patronum
+
+TEAM YOU_KNOW_WHO
+	1 Lord Voldemort   Organization: DEATH_EATERS   Rank: LORD   Curse: crucio
+	2 Bellatrix Lestrange   Organization: DEATH_EATERS   Rank: MISTRESS   Curse: sectumsempra
+	3 Fenrir Greyback   Organization: DEATH_EATERS   Rank: APPRENTICE   Curse: imperio
+	4 Peter Pettigrew   Organization: DEATH_EATERS   Rank: FELLOW   Curse: gubraithian fire
+	5 Dolores Umbridge   Organization: MINISTRY_OF_MAGIC   Rank: OFFICIAL   Curse: knee-reversing hex
+
+
+****HEAD-TO-HEAD BATTLE****
+***Battle 1
+
+Team 1:   Albus Dumbledore   avada kedavra   100PU     *** WINNER
+Team 2:   Lord Voldemort   crucio   70PU     *** LOSER
+
+***Battle 2
+
+Team 1:   Minerva McGonagall   petrificus totalus   40PU     *** LOSER
+Team 2:   Bellatrix Lestrange   sectumsempra   47PU     *** WINNER
+
+***Battle 3
+
+Team 1:   Hermione Granger   obliviate   40PU     *** WINNER
+Team 2:   Fenrir Greyback   imperio   36PU     *** LOSER
+
+***Battle 4
+
+Team 1:   Ron Weasley   expelliarmus   30PU     *** WINNER
+Team 2:   Peter Pettigrew   gubraithian fire   20PU     *** LOSER
+
+***Battle 5
+
+Team 1:   Harry Potter   expecto patronum   35PU     *** WINNER
+Team 2:   Dolores Umbridge   knee-reversing hex   22PU     *** LOSER
+
+
+
+****WINNERS****
+TEAM ORDER_OF_THE_PHOENIX
+	1  Albus Dumbledore
+	2  Hermione Granger
+	3  Ron Weasley
+	4  Harry Potter
+
+TEAM YOU_KNOW_WHO
+	1  Bellatrix Lestrange
+
+****WINNER****
+TEAM ORDER_OF_THE_PHOENIX
